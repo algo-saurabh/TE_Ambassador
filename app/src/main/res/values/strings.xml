@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TE Ambassador</string>
+    
+    <string name="taskDescription">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu urna et risus feugiat semper. Sed ornare massa ut nisl mattis, sit amet luctus odio blandit. Vivamus tincidunt quam a porttitor elementum. Quisque pellentesque massa ante. Nam ligula sem, finibus id mi et, mattis rhoncus elit. Aenean ante mauris, interdum nec velit in, lobortis dignissim mauris. Praesent vulputate sem diam, non fermentum turpis consectetur nec. Vestibulum volutpat placerat lectus eu gravida.</string>
+    <string name="taskTitle">Null</string>
+    <string name="taskPoints">Null</string>
+    <string name="taskStatus">Pending for approval</string>
+    <string name="statusTitle">Status</string>
+    <string name="uploadTitle">Upload Your Work</string>
+    <string name="uploadButton">Select an Image</string>
+    <string name="progressBarMessage1">Yet to Upload</string>
+    <string name="progressBarMessage2">Pending for Approval</string>
+    <string name="progressBarMessage3">Rejected</string>
+    <string name="progressBarMessage4">Completed</string>
+</resources>
